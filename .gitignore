@@ -1,0 +1,4 @@
+build/
+diamondenv/
+DiamonPricePrediction.egg-info/
+dist/
